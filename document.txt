@@ -1,2 +1,3 @@
-Hello
-Welcome
+Hello World
+Welcome to Line Editor
+This is my project
