@@ -122,7 +122,7 @@ void deleteLine()
 
     if (lineNumber < 1 || lineNumber > count)
     {
-        printf("Error: Invalid line number.\n");
+        printf("Error: Please enter a valid line number from 1 to %d.\n",count);
         return;
     }
 
