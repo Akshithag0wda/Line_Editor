@@ -84,7 +84,7 @@ void insertLine()
 
     if (lineNumber < 1 || lineNumber > count + 1)
     {
-        printf("Error: Invalid line number.\n");
+        printf("Error: Please enter a valid line number from 1 to %d.\n",count+1);
         return;
     }
 
