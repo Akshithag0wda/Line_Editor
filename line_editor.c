@@ -146,7 +146,7 @@ void displayDocument()
         return;
     }
 
-    printf("\n===== DOCUMENT =====\n");
+    printf("\n===== DOCUMENT CONTENT =====\n");
 
     for (int i = 0; i < count; i++)
     {
