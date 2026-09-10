@@ -163,7 +163,7 @@ void saveDocument()
 
     if (file == NULL)
     {
-        printf("Error: Could not save the document.\n");
+        printf("Error: Unable to save the document.txt.\n");
         return;
     }
 
